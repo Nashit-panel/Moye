@@ -20,4 +20,4 @@ apt install -y python3 python3-pip
 pip install -r requirements.txt
 
 # Run the http_flood.py script
-python3 http_flood.py
+python3 http_flooder.py
